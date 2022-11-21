@@ -1,0 +1,25 @@
+#regCont{
+    background-color: #fff;
+    text-align: center;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 8px;
+    margin-left: 55%;
+    margin-top: 10%;
+    padding-top: 1rem;
+}
+.in{
+    width: 80%;
+    height: 2rem;
+    /* margin-top: 6px; */
+}
+.sigB3{
+    margin-top: 1rem;
+    color: #fff;
+    width: 58%;
+    height: 2.4rem;
+    background-color: rgb(3, 123, 1);
+    border-radius: 8px;
+    border: none;
+    
+}

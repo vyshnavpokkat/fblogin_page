@@ -1,0 +1,68 @@
+
+*{
+    background-color: rgb(236, 234, 241);
+} 
+#cont{
+    width: 50%;
+    margin-top: 0%;
+    margin-left: 5%;
+    position: absolute;
+}
+#logo{
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    font-size: 3rem;
+    margin-top: 18%;
+    margin-left: 5%;
+    margin-bottom: -1%;
+}
+#caption{
+    font-size: 1.5rem;
+    margin-left: 5%;
+}
+#log_container{
+    background-color: #fff;
+    text-align: center;
+    width: 25rem;
+    height: 25rem;
+    border-radius: 8px;
+    margin-left: 95%;
+    margin-top: -30%;
+    padding-top: 1rem;
+
+    
+}
+.inZone,.sigB{
+    width: 85%;
+    height: 2rem;
+    margin: 1.3rem;
+    border-radius: 8px;
+    background-color: #fff;
+    border-color: rgba(188, 177, 177,.3);
+}
+.sigB{
+    color: #fff;
+    width: 85%;
+    height: 2rem;
+    background-color: rgb(0, 0, 113);
+    
+}
+#Fpass{
+    color: rgb(76, 127, 255);
+    font-size: 1em;
+    background-color: #fff;
+    
+}
+.sigB2{
+    margin-top: 1rem;
+    color: #fff;
+    width: 55%;
+    height: 2.2rem;
+    background-color: rgb(3, 123, 1);
+    border-radius: 8px;
+    border: none;
+    
+}
+hr{
+    width: 80%;
+}
